@@ -1,0 +1,23 @@
+# Exclude common IDE project files
+.idea
+*.iml
+.project
+.settings
+.classpath
+.checkstyle
+.vscode/
+**/.vscode/*
+
+# Exclude Vagrant files
+.vagrant
+
+#  Local .terraform directories
+**/.terraform/*
+.terraform/
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files
+*.tfvars
