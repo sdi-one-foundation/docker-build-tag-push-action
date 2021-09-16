@@ -5,7 +5,7 @@ inputs:
     description: 'The AWS access key ID to use for pushing the image'
     required: true
   aws-secret-access-key:
-    description: 'The AWS secreet access key to use for pushing the image'
+    description: 'The AWS secret access key to use for pushing the image'
     required: true
   aws-region:
     description: 'The AWS region that holds the ECR repository'
