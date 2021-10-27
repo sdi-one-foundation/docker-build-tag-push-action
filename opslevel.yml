@@ -1,18 +1,19 @@
-"framework": "n/a"
-"language": "terraform"
-"lifecycle": "generally_available"
-"owner": "sdi-one-foundation"
-"repositories":
+"repository":
   "display_name": "docker-build-tag-push-action"
   "name": "sdi-one-foundation/docker-build-tag-push-action"
+  "owner": "sdi-one-foundation"
   "path": "/"
   "provider": "github"
-"serivce":
+"service":
   "aliases":
   - "N/A"
   "description": "A composite Github Action for our standard Docker build/tag/push
     workflow steps"
+  "framework": "n/a"
+  "language": "terraform"
+  "lifecycle": "generally_available"
   "name": "docker-build-tag-push-action"
+  "owner": "sdi-one-foundation"
   "product": "foundation"
-"tier": "tier_3"
+  "tier": "tier_3"
 "version": 1
