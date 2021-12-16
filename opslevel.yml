@@ -6,7 +6,7 @@
   "provider": "github"
 "service":
   "aliases":
-  - "N/A"
+  - "docker-build-tag-push-action"
   "description": "A composite Github Action for our standard Docker build/tag/push
     workflow steps"
   "framework": "n/a"
@@ -15,5 +15,14 @@
   "name": "docker-build-tag-push-action"
   "owner": "sdi-one-foundation"
   "product": "foundation"
+  "tags":
+  - "key": "Name"
+    "value": "docker-build-tag-push-action"
+  - "key": "Team"
+    "value": "sdi-one-foundation"
+  - "key": "ServiceType"
+    "value": "other"
+  - "key": "Product"
+    "value": "foundation"
   "tier": "tier_3"
 "version": 1
